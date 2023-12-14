@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 //All countries flags
 let xhr=new XMLHttpRequest();
 xhr.open("GET","https://restcountries.com/v3.1/all");
